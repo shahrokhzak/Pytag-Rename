@@ -1,3 +1,13 @@
+#Things to add :
+#BUG app will replace file extension must be selectable to change it or not
+#BUG not Potential Bug but app dont look at subfolder feature must be added
+#Add Feature Changing to Lower Case Upper Case Or Camel Indent
+#Add Feature Right Click Paste 
+#Add Feature Including SubFolder And File (spyder needed)
+#Add Feature Date From File Tag Or Kind Of Dynamic Name (info come from the file itself)
+#Add Feature File Extension Selecting (just replace name of specific file type)
+
+
 import os
 from tkinter import Button, Label, Entry, StringVar,Tk
 from tkinter.filedialog import askdirectory
